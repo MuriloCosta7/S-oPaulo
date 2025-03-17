@@ -1,0 +1,53 @@
+
+
+
+
+
+body {
+    background-image: url('');
+color: white;
+background-size: cover;
+background-position: left;
+background-repeat: no-repeat;
+padding: 6px;
+background-color: black;
+
+
+
+}
+
+
+
+
+header {
+    text-align: center;
+}
+
+#menu {
+background-color: white;
+overflow: hidden;
+position: fixed;
+top: 0;
+width: 100%;
+z-index: 1000;
+padding: 6px;
+color: black;
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding: 10px 0;
+left: 0;
+
+
+}
+#menu a{
+text-decoration: none;
+color: black;
+
+}
+
+footer {
+    background-color: black;
+    position: fixed;
+    
+}
